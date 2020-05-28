@@ -1,3 +1,5 @@
+# Use https://github.com/jellyfin/cordova-plugin-chromecast
+
 cordova-chromecast
 ==================
 
