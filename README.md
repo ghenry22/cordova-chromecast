@@ -24,7 +24,7 @@ If not you will need to import the following projects as Library Projects in ord
 
 ##Usage
 
-This project attempts to implement the official Google Cast SDK for Chrome... in Cordova. We've made a lot of progress in making this possible, check out the offical docs for examples: https://developers.google.com/cast/docs/chrome_sender
+This project attempts to implement the official Google Cast SDK for Chrome... in Cordova. We've made a lot of progress in making this possible, check out the offical docs for examples: https://developers.google.com/cast/docs/chrome_sender_setup
 
 When you call `chrome.cast.requestSession()` an ugly popup will be displayed to select a Chromecast. If you're not cool with this - you can call: `chrome.cast.getRouteListElement()` which will return a `<ul>` tag that contains the Chromecasts in a list. All you have to do is style that bad boy and you're off to the races!
 
